@@ -1,0 +1,2 @@
+10000000;cali;colombia;frio;
+10000000;popayan;colombia;frio;cali;xxx;xxxx;xxx;
